@@ -22,4 +22,4 @@ A modern, responsive landing page for a SaaS project management tool, built as p
 
 1. Clone the repository:
    ```bash
-   git clone [https://github.com/raj3119/task-flow-landing.git](https://github.com/raj3119/task-flow-landing.git)
+   git clone https://github.com/raj3119/task-flow-landing.git
